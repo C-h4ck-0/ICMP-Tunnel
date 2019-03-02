@@ -3,6 +3,7 @@ This POC will involve a C&C server and an agent. Where the C2 server will send t
 
 ## Note that:
 – This POC requires you to install Scapy (https://scapy.readthedocs.io/en/latest/installation.html)
+
 – This POC will not involve handling with fragmentation. Fragmentation will occur, for example, if the answer from the agent will be bigger then the allowed Payload Data size.
 
 ## Learn more about ICMP Tunnel!
